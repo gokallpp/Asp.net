@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+# * text=auto
+
+[CODE lang="git" title=".gitignore"]*.cs
+#cs dosya uzantısına sahip dosyalar gizlenir
+Main.cs
