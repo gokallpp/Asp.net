@@ -1,4 +1,4 @@
-# Admin Login Asp.Net Framework: 
+# Admin Login Asp.Net Framework: Admin Girişi, Admin Güncelleme
 
 
 ## İçerik
